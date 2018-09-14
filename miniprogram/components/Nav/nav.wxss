@@ -1,0 +1,11 @@
+/* components/nav.wxss */
+.wrapper{
+  display: flex;
+  width: 999rpx;
+}
+.nav-bar{
+  flex: 1;
+  overflow: hidden;
+  height: 80rpx;
+  background-color: #000
+}

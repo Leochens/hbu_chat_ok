@@ -1,0 +1,5 @@
+<!--components/Nav/nav.wxml-->
+<view class='wrapper'>
+  <view class='nav-bar'></view>
+
+</view>

@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <nav/>
+
+ 
+<view>
+  <button bindtap='onGetChats'>点击获取chats</button>
+  <view>
+  </view>
+</view>
+</view>
